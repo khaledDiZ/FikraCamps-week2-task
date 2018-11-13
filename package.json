@@ -1,0 +1,14 @@
+{
+  "name": "fikracamps-week2-task",
+  "version": "1.0.0",
+  "description": "task from fikracamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"  },
+  "author": "khaled breaker",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
+}
